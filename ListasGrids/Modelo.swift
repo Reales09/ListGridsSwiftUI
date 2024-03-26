@@ -17,5 +17,8 @@ struct Modelo: Identifiable{
 let lista: [Modelo] = [
     Modelo(emoji: "🍕", nombre: "Pizza", descripcion: "Pizza hawaiana"),
     Modelo(emoji: "🖐🏾", nombre: "Mano alzada", descripcion: "Mano alzada una sola mano"),
+    Modelo(emoji: "🥑", nombre: "Aguacate", descripcion: "Delicioso aguacate"),
+    Modelo(emoji: "🍕", nombre: "Pizza", descripcion: "Pizza hawaiana"),
+    Modelo(emoji: "🖐🏾", nombre: "Mano alzada", descripcion: "Mano alzada una sola mano"),
     Modelo(emoji: "🥑", nombre: "Aguacate", descripcion: "Delicioso aguacate")
 ]
