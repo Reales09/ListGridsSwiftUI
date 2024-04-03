@@ -11,7 +11,7 @@ import SwiftUI
 struct ListasGridsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GridList()
         }
     }
 }
