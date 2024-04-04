@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B75CB5CD2BBDBC82009A511A /* ModeloColumnas.swift in Sources */ = {isa = PBXBuildFile; fileRef = B75CB5CC2BBDBC82009A511A /* ModeloColumnas.swift */; };
 		B7BD29C42BB296C500D5CC86 /* ListasGridsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7BD29C32BB296C500D5CC86 /* ListasGridsApp.swift */; };
 		B7BD29C62BB296C500D5CC86 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7BD29C52BB296C500D5CC86 /* ContentView.swift */; };
 		B7BD29C82BB296CA00D5CC86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7BD29C72BB296CA00D5CC86 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B75CB5CC2BBDBC82009A511A /* ModeloColumnas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModeloColumnas.swift; sourceTree = "<group>"; };
 		B7BD29C02BB296C500D5CC86 /* ListasGrids.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ListasGrids.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7BD29C32BB296C500D5CC86 /* ListasGridsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListasGridsApp.swift; sourceTree = "<group>"; };
 		B7BD29C52BB296C500D5CC86 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -39,6 +41,7 @@
 		B7BD29B72BB296C500D5CC86 = {
 			isa = PBXGroup;
 			children = (
+				B75CB5CC2BBDBC82009A511A /* ModeloColumnas.swift */,
 				B7BD29C22BB296C500D5CC86 /* ListasGrids */,
 				B7BD29C12BB296C500D5CC86 /* Products */,
 			);
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B75CB5CD2BBDBC82009A511A /* ModeloColumnas.swift in Sources */,
 				B7BD29D22BB2978F00D5CC86 /* Modelo.swift in Sources */,
 				B7BD29C62BB296C500D5CC86 /* ContentView.swift in Sources */,
 				B7BD29C42BB296C500D5CC86 /* ListasGridsApp.swift in Sources */,
